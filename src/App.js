@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Mobile from './components/Mobileoperating';
 import Manufacture from './components/Mobilemanu';
+import Trail from './components/Trail';
 
 function App() {
   // let items = {
@@ -32,6 +33,7 @@ function App() {
           <Manufacture {...e}></Manufacture>
         </div>
       ))}
+     <Trail></Trail>
     </div>
   );
 }
