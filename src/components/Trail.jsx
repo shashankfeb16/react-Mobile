@@ -7,8 +7,7 @@ const Trail = () => {
             <input type="text"></input>
             <input type="text"></input>
             <input type="text"></input>
-           
-            
+            <input type="text"></input>
         </form>
     </div>
   )
